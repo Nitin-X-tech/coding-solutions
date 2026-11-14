@@ -48,7 +48,7 @@ No
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-14T17:51:34.082Z  
+**Submitted:** 2026-11-14T17:51:55.533Z  
 
 ```c_cpp
 #include <stdio.h>
